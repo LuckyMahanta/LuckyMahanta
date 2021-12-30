@@ -7,11 +7,11 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 
-- 👨‍🎓 I’m currently doing BTECH from **Kalinga Industrial of Industrial Technology**
+- 👨‍🎓 I’m currently pursuing BTECH from **Kalinga Industrial of Industrial Technology**
 
 - 👨‍💻 I’m currently learning **HTML, C**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LuckyMahanta](https://github.com/LuckyMahanta)
+- 🗃 All of my projects are available at [https://github.com/LuckyMahanta](https://github.com/LuckyMahanta)
 
 - 📫 How to reach me **mahantalucky7@gmail.com**
 
